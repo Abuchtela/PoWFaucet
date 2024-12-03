@@ -9,6 +9,6 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "base32768": "^2.0.1"
+    "base32768": "^2.0.2"
   }
 }
